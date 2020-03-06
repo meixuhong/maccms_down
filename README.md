@@ -16,6 +16,10 @@
 
 https://github.com/magicblack/maccms_down/archive/master.zip
 
+第三方CDN加速下载
+
+https://cdn.jsdelivr.net/gh/magicblack/maccms_down/
+
 v10完整包
 
 https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms10.zip
